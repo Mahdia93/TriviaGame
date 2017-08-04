@@ -1,0 +1,51 @@
+body {
+	background-image: url("http://data.whicdn.com/images/65932391/original.png");
+}
+
+.wrapper div{
+
+	height: 100px;
+	background-color:white;
+	width:723.83px;
+	margin:auto;
+
+}
+button.startButton div{ border: 10px solid #4CAF50;
+}
+
+button {
+	width: 80%;
+	height: 40px;
+	margin: 0 10%;
+	float: none;
+}
+
+button.answerchoice {
+	display: none;
+}
+
+button:hover {
+	background-color: #353535;
+	color: white;
+
+}
+
+.answers div {
+	width: 100%;
+	height: 50px;
+	float: right;
+	
+
+}
+
+.pizzatrivia div{
+height: 40px;
+background-color:white;
+
+}
+
+
+h1, h2, h3, .question {
+	text-align: center;
+	color: red;
+}
